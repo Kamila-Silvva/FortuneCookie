@@ -1,10 +1,10 @@
 # 🥠 FortuneCookie App - Biscoito da Sorte Virtual
 
-## 📝 Descrição Curta
+## 📝 Descrição
 
 FortuneCookie App é um aplicativo móvel desenvolvido em React Native com Expo, onde o usuário pode "quebrar" um biscoito da sorte virtual para receber uma frase inspiradora ou divertida (com uma pegada "badass"!). O app também reage ao gesto de chacoalhar o celular para quebrar o biscoito e possui um seletor de tema claro/escuro para personalizar a experiência.
 
-## ✨ Funcionalidades Principais
+## ✨ Funcionalidades
 
 * **Quebrar o Biscoito:** Clique no biscoito ou chacoalhe o celular para reveler sua sorte.
 * **Frases Aleatórias:** Uma coleção de frases para te inspirar ou divertir.
@@ -80,7 +80,7 @@ Siga estas instruções para rodar o projeto no seu ambiente de desenvolvimento.
 3.  Abra o aplicativo **Expo Go** no seu celular e escaneie o código QR.
 4.  O aplicativo FortuneCookie deverá carregar no seu dispositivo.
 
-## 🎮 Como Usar o App
+## 🎮 Como Usar 
 
 * **Quebrar o Biscoito:**
     * Clique na imagem do biscoito fechado.
@@ -118,7 +118,7 @@ Você pode facilmente personalizar alguns aspectos do app:
 1.  No `App.js`, localize os objetos `lightThemeColors` e `darkThemeColors`.
 2.  Altere os códigos hexadecimais das cores para personalizar a aparência de cada tema.
 
-## 💡 Próximos Passos / Melhorias Futuras (Sugestões)
+## 💡 Próximos Passos / Melhorias Futuras
 
 * Adicionar animações mais elaboradas para a "quebra" do biscoito.
 * Buscar frases de uma API externa.
